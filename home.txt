@@ -6,4 +6,9 @@ Door
 living room
 kitchen
 bathroom
+furniture
+tv
+
+
+
 Thank you for visiting
