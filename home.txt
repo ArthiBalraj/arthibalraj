@@ -6,6 +6,11 @@ Door
 living room
 kitchen
 bathroom
+furniture
+tv
+
+
+
 Thank you for visiting
 Final home
 done my changes
