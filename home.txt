@@ -5,3 +5,4 @@ Welcome to home
 Door
 living room
 kitchen
+bathroom
